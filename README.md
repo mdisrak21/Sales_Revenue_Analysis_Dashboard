@@ -69,7 +69,7 @@ The dashboard applies the following cleaning and preparation steps:
 10. Excludes transactions with non-positive unit prices.
 11. Calculates revenue using:
 
-`Revenue = Quantity × UnitPrice`
+`Revenue = Quantity * UnitPrice`
 
 12. Creates a monthly analysis field named `YearMonth`.
 
@@ -269,7 +269,7 @@ The dashboard can be used to answer questions such as:
 
 ## Limitations
 
-- Revenue is calculated from `Quantity × UnitPrice`.
+- Revenue is calculated from `Quantity * UnitPrice`.
 - Cancelled invoices are excluded from the main sales analysis.
 - Rows with invalid dates, non-positive quantities, or non-positive unit prices are excluded.
 - Customer-based metrics use available `CustomerID` values.
