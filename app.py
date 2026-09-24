@@ -11,7 +11,7 @@ import streamlit as st
 # ============================================================
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_FILE = ROOT / "data" / "processed" / "online_retail_clean.csv"
+DEFAULT_FILE = ROOT / "data" / "processed" / "online_retail_clean.csv.gz"
 
 st.set_page_config(
     page_title="Sales & Revenue Analysis Dashboard",

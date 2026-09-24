@@ -6,6 +6,7 @@ venv/
 .DS_Store
 data/raw/*
 data/processed/*
+!data/processed/online_retail_clean.csv.gz
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 .streamlit/secrets.toml
