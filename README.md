@@ -2,6 +2,10 @@
 
 An interactive sales and revenue analytics dashboard built with Python, Pandas, Plotly, and Streamlit for the Thiranex Data Analytics internship project.
 
+## 🚀 Live Demo
+
+[Open Live Dashboard](https://salesrevenueanalysisdashboard.streamlit.app/)
+
 ## Project Overview
 
 This project analyzes the UCI Online Retail transaction dataset and presents the results through an interactive dashboard.
