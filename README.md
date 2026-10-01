@@ -283,6 +283,10 @@ The dashboard can be used to answer questions such as:
 
 **Md. Israk Ahmmed**
 
+Data Analytics Intern
+
+Thiranex
+
 ## License
 
 This project is prepared for educational and internship project purposes.
